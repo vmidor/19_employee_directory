@@ -47,6 +47,3 @@ https://create-react-app.dev/docs/deployment/
 and etc.
 
 ## Work
-
-[Heroku,](https://github.com/vmidor/19_employee_directory)
-[GitHub](...)
