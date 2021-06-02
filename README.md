@@ -7,21 +7,28 @@ For this assignment, you'll create a employee directory with React. This assignm
 ## User Story
 
 - As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
-  ![screenshopt of the app](assets/.png)
+  ![screenshopt of the app](react19/assets/screen.png)
 
 ## Bussines Context
 
 Manager or employee can view non-sensitive data about other employees.
-They can filter employees by name:
-![screenshopt of the app](assets/.png)
-By DOB:
-![screenshopt of the app](assets/.png)
-By Cell phone number:
-![screenshopt of the app](assets/.png)
+They can filter employees by:
+
+## Name:
+
+![screenshopt of the app](react19/assets/name.png)
+
+## DOB:
+
+![screenshopt of the app](react19/assets/DOB.png)
+
+## Cell phone number:
+
+![screenshopt of the app](react19/assets/Cell.png)
 
 ## If we do not have such an employee
 
-![screenshopt of the app](assets/.png)
+![screenshopt of the app](react19/assets/result.png)
 
 ## More
 
@@ -34,12 +41,12 @@ https://create-react-app.dev/docs/deployment/
 
 ## Tools
 
-[Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers)
-[Stylesheet](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+[Service Workers,](https://developers.google.com/web/fundamentals/primers/service-workers)
+[Stylesheet,](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 [FontAwesome](https://fontawesome.com/v4.7/icon/sort-desc)
 and etc.
 
 ## Work
 
-[Heroku](...)
+[Heroku,](https://github.com/vmidor/19_employee_directory)
 [GitHub](...)
