@@ -7,7 +7,7 @@ For this assignment, you'll create a employee directory with React. This assignm
 ## User Story
 
 - As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
-  ![screenshopt of the app](react19/assets/screen.png)
+  ![screenshopt of the app](assets/screen.png)
 
 ## Bussines Context
 
@@ -16,19 +16,19 @@ They can filter employees by:
 
 ## Name:
 
-![screenshopt of the app](react19/assets/name.png)
+![screenshopt of the app](assets/name.png)
 
 ## DOB:
 
-![screenshopt of the app](react19/assets/DOB.png)
+![screenshopt of the app](assets/DOB.png)
 
 ## Cell phone number:
 
-![screenshopt of the app](react19/assets/Cell.png)
+![screenshopt of the app](assets/Cell.png)
 
 ## If we do not have such an employee
 
-![screenshopt of the app](react19/assets/result.png)
+![screenshopt of the app](assets/result.png)
 
 ## More
 
@@ -47,3 +47,6 @@ https://create-react-app.dev/docs/deployment/
 and etc.
 
 ## Work
+
+[Heroku,](https://guarded-falls-04801.herokuapp.com/)
+[GitHub](https://github.com/vmidor/19_employee_directory)
